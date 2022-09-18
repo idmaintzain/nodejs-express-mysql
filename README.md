@@ -19,7 +19,8 @@
                 updatedAt DATETIME NULL,
                 PRIMARY KEY (_id),
                 UNIQUE INDEX _id_UNIQUE (_id ASC),
-                UNIQUE INDEX email_UNIQUE (email ASC));
+                UNIQUE INDEX email_UNIQUE (email ASC)
+        );
 
 
 ### Start app using Nodemon
