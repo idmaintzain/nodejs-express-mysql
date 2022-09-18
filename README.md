@@ -1,7 +1,9 @@
 # Express Node JS Api Sample Using Mysql
 
 ### Install
-
+$ git clone https://github.com/idmaintzain/nodejs-express-mysql.git
+$ cd into project_folder ie cd nodejs-express-mysql
+$ npm install
 
 
 ### Configure app
